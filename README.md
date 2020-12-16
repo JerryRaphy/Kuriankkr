@@ -53,7 +53,7 @@ These dashboards and visualization notebooks originated because of the pandemic 
 </p>
 
 ## BlueBook for Bulldozers
-One of the first projects that I worked on and it helped me learn a lot! It involved sourcing the data from Kaggle as a part of a competition and predicting the sales price of Bulldozers that we being sold during an auction. Click [here](https://github.com/Kuriankkr/Bluebook-for-Bulldozers) to dive into the notebooks
+<b>One<\b> of the first projects that I worked on and it helped me learn a lot! It involved sourcing the data from Kaggle as a part of a competition and predicting the sales price of Bulldozers that we being sold during an auction. Click [here](https://github.com/Kuriankkr/Bluebook-for-Bulldozers) to dive into the notebooks
 
 
 ---
